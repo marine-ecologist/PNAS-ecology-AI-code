@@ -9,7 +9,7 @@ Science searches following Ryo (2023). The vertical dashed line marks the endpoi
 con nues to grow at a steady rate, while AI-related ecological studies have accelerated in the last
 decade at a rate exceeding exponen al growth.
 
-![AI vs ecology publication trend, Web of Science 2010–2026](figures/ai_ecology_pubtrend.png)
+![AI vs ecology publication trend, Web of Science 2010–2026](figures/Fig1_ai_ecology_pubtrend.png)
 
 
 ```{r eval=FALSE}
