@@ -1,7 +1,7 @@
 
-## "Ecology must shape AI before AI reshapes ecology"
+# "Ecology must shape AI before AI reshapes ecology"
 
-Code and data for "Ecology must shape AI before AI reshapes ecology".
+Code, output, and `.bib` data files for Figure 1:
 
 Figure 1. Publication on trend in ecological studies with ar ficial intelligence (AI), based on Web of
 Science searches following Ryo (2023). The vertical dashed line marks the endpoint of the original 2011–
