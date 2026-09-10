@@ -3,14 +3,14 @@
 
 Code, output, and `.bib` data files for Figure 1:
 
-Figure 1. Publication on trend in ecological studies with ar ficial intelligence (AI), based on Web of
-Science searches following Ryo (2023). The vertical dashed line marks the endpoint of the original 2011–
-2022 dataset (Ryo 2023). Extending the search to 2026 shows that the number of ecological studies
-con nues to grow at a steady rate, while AI-related ecological studies have accelerated in the last
-decade at a rate exceeding exponen al growth.
 
 ![AI vs ecology publication trend, Web of Science 2010–2026](figures/Fig1_ai_ecology_pubtrend.png)
 
+Figure 1. Publication on trend in ecological studies with ar ficial intelligence (AI), based on Web of
+Science searches following Ryo (2023). The vertical dashed line marks the endpoint of the original 2011–
+2022 dataset (Ryo 2023). Extending the search to 2026 shows that the number of ecological studies
+continues to grow at a steady rate, while AI-related ecological studies have accelerated in the last
+decade at a rate exceeding exponential growth.
 
 ```{r eval=FALSE}
 # Publication trend in ecological studies with AI (Web of Science)
