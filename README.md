@@ -1,17 +1,7 @@
----
-title: "Ecology must shape AI before AI reshapes ecology"
-author: "George Roff"
-date: "2026-09-10"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## 
 
-Code and data for 
+Code and data for "Ecology must shape AI before AI reshapes ecology".
 
 Figure 1. Publication on trend in ecological studies with ar ficial intelligence (AI), based on Web of
 Science searches following Ryo (2023). The vertical dashed line marks the endpoint of the original 2011–
