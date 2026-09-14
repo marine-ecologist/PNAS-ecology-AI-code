@@ -71,8 +71,8 @@ m_ai  <- lm(log(ai) ~ year,  data = eco_ai)
 m_eco_summary <- summary(m_eco)
 m_ai_summary <- summary(m_ai)
 
-m_ai_summary_label <- paste0("R\u00b2  = ", c(round(m_ai_summary$adj.r.squared, 2)), " x~y, ***")
-m_eco_summary_label <- paste0("R\u00b2  = ", c(round(m_eco_summary$adj.r.squared, 2)), " x~exp(y), ***")
+m_ai_summary_label <- paste0("R\u00b2  = ", c(round(m_ai_summary$adj.r.squared, 2)), " x~exp(y), ***")
+m_eco_summary_label <- paste0("R\u00b2  = ", c(round(m_eco_summary$adj.r.squared, 2)), " x~y, ***")
 
 # expand predictions
 grid <- tibble(year = seq(2010, 2026, length.out = 200))
@@ -114,5 +114,5 @@ p <- ggplot() + theme_bw() +
 
 
 # save plots
-ggsave("~/Desktop/ai_ecology_pubtrend.png", p, width = 8, height = 7)
+ggsave("~/Desktop/ai_ecology_pubtrend.png", p, width = 9, height = 7, dpi=1200)
 print(p)
