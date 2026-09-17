@@ -1,12 +1,7 @@
 
 # "Ecology must shape AI before AI reshapes ecology"
 
-Code, output, and `.bib` data files for Figure 1:
-
-
-![AI vs ecology publication trend, Web of Science 2010–2026](figures/Fig1_ai_ecology_pubtrend.png)
-
-Figure 1. Publication on trend in ecological studies with artificial intelligence (AI), based on Web of
+Code, output, and `.bib` data files for Figure 1: Publication on trend in ecological studies with artificial intelligence (AI), based on Web of
 Science searches following Ryo (2024). The vertical dashed line marks the endpoint of the original 2011–
 2022 dataset (Ryo 2023). Extending the search to 2026 shows that the number of ecological studies
 continues to grow at a steady rate, while AI-related ecological studies have accelerated in the last
